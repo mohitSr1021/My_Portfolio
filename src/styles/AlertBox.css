@@ -1,0 +1,8 @@
+._alertBox {
+    min-width: fit-content;
+    height: fit-content;
+    position: absolute;
+    top: 10px;
+    right: 5% !important;
+    z-index: 99999;
+}

@@ -1,0 +1,27 @@
+
+footer {
+    background-color: #f6f8fa; /* GitHub background color */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+  
+  .social-icons a {
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .social-icons a:hover {
+    opacity: 0.8;
+  }
+  
+  p {
+    color: #586069; /* GitHub text color */
+    font-size: 14px;
+  }
+  
