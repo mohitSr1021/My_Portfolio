@@ -82,6 +82,7 @@
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
+    scale: 0.8;
 }
 
 .content #i2 {
@@ -89,6 +90,7 @@
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
+    scale: 1;
 }
 
 .content #i3 {
@@ -96,6 +98,7 @@
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
+    scale: 0.8;
 }
 
 
@@ -104,6 +107,7 @@
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
+    scale: 1;
 }
 
 
@@ -142,6 +146,15 @@
     background-repeat: no-repeat;
     scale: 0.7;
 }
+
+.content #i10 {
+    background: url('../assets/nodejs.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    scale: 1.5;
+}
+
 .react-section {
     margin: 0 auto;
     width: fit-content;

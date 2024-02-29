@@ -17,6 +17,7 @@ function Skills() {
           <div className="box" id="i7"></div>
           <div className="box" id="i8"></div>
           <div className="box" id="i9"></div>
+          <div className="box" id="i10"></div>
         </div>
         <div className="container">
           <div className={`react-section ${isDarkMode ? "dark-mode" : ""}`}>
