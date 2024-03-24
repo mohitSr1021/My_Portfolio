@@ -26,8 +26,7 @@ function Skills() {
               className="skills-text"
               style={{ color: isDarkMode ? "#D9D9D9" : "green" }}
             >
-              Currently learning React.js to enhance my front-end development
-              skills.
+              Currently learning MongoDB and actively working on building projects.
             </p>
           </div>
         </div>
